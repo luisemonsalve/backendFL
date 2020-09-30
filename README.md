@@ -1,1 +1,1 @@
-# Backend para agregar meta tags al compartir en redes
+# Backend para agregar meta tags pára compartir en redes
